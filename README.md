@@ -1,9 +1,6 @@
-<h1 align="center"> Hello there. I'm Chris Mutugi! 👋</h1>
-<h3 align="center">I am a Geo-ICT developer, ready for adventure</h3>
+<h1> Hello there. I'm Chris Mutugi! 👋</h1>
+<h3>I am a Geo-ICT developer, ready for adventure</h3>
 <br>
-
-
-<p><em>I am a Geo-ICT developer, ready for adventure</em></p>
 
 - 🔭 I’m currently learning full-stack development.
 - 🌱 I’m currently learning APIs in client-side JavaScript.
@@ -11,8 +8,8 @@
 - 💬 Ask me about GIS, remote sensing solutions and football.
 
 
-<h3 align="center">Let's Connect 🤝</h3>
-<div align="center">
+<h3>Let's Connect 🤝</h3>
+<div>
 <a target="_blank"
 href="https://www.linkedin.com/in/chris-mutugi-46594b123/"><img
 src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> <a target="_blank"
