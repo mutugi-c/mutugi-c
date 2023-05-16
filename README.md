@@ -2,8 +2,8 @@
 <h3>I am a Geo-ICT developer, ready for adventure</h3>
 <br>
 
-- 🔭 I’m currently learning full-stack development.
-- 🌱 I’m currently learning APIs in client-side JavaScript.
+- 🔭 I’m currently working on and learning full-stack development.
+- 🌱 I’m currently exploring APIs in client-side JavaScript.
 - 👯 I’m looking to collaborate on web development and Geo-ICT projects.
 - 💬 Ask me about GIS, remote sensing solutions and football.
 
