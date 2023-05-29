@@ -23,5 +23,5 @@ src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitt
 <br>
 <hr>
  
- [![Mutugi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mutugi-c)](https://github.com/mutugi-c/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mutugi-c)](https://github.com/mutugi-c/github-readme-stats)
+ [![Mutugi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mutugi-c&langs_count=10&layout=compact&show_icons=true&locale=en&size_weight=0.8&count_weight=0.2&theme=dark)](https://github.com/mutugi-c/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mutugi-c&show_icons=true&locale=en&theme=dark)](https://github.com/mutugi-c/github-readme-stats)
 
