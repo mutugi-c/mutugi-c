@@ -1,9 +1,10 @@
 <h1> Hello there. I'm Chris Mutugi! 👋</h1>
 <h3>I am a Geo-ICT developer, ready for adventure</h3>
+
 <br>
 
 - 🔭 I’m currently working on and learning full-stack development.
-- 🌱 Specifically, I am exploring APIs in client-side JavaScript.
+- 🌱 Specifically, I am working on app/application development.
 - 👯 I’m looking to collaborate on web development and Geo-ICT projects.
 - 💬 Ask me about GIS, remote sensing solutions and football.
 - ⚡ Fun fact: A map without a scale is just a picture.
